@@ -43,7 +43,7 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://web.asusaio.cn/",
+      homeUrl: "https://web.asusai.cn/",
       blogUrl: "https://blog.asusaio.cn/",
       githubUrl: "https://github.com/Jeary-Chen",
       emailUrl: "mailto:mail@asusai.cn"
